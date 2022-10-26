@@ -14,7 +14,7 @@
 
 read_patents <- function(file_dir){
   patents <- do.call("rbind",
-                     lapply(list.files(file_dir, full.names = T),
+                     lapply(list.files(file_dir, full.names = T, recursive=TRUE),
                             function(x){
                               df <- read.csv(x)
                               df$App_Date <- ymd(as.character(df$App_Date))
