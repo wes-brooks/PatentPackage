@@ -3,5 +3,5 @@ test_that("patent reading works", {
 
   # expect_snapshot( patents )
   # expect_output_file(patents, "data/patents.csv")
-  expect_equal(2 * 2, 4)
+  expect_equal(2 * 2, 5)
 })
