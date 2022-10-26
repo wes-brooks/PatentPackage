@@ -1,5 +1,5 @@
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/wes-brooks/PatentPackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/wes-brooks/PatentPackage/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/wes-brooks/PatentPackage/actions/workflows/check-release.yaml/badge.svg)](https://github.com/wes-brooks/PatentPackage/actions/workflows/check-release.yaml)
 <!-- badges: end -->
 
 # PatentPackage
