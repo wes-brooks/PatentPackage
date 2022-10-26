@@ -2,3 +2,4 @@
 
 export(read_patents)
 import(lubridate)
+importFrom(utils,read.csv)
