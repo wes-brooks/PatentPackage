@@ -1,3 +1,5 @@
 ^PatentPackage\.Rproj$
 ^\.Rproj\.user$
 ^\.github$
+^\scratch$
+^LICENSE\.md$
