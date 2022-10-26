@@ -9,3 +9,6 @@ use_github_actions_badge( "check-release")
 
 # use the MIT liense
 use_mit_license()
+
+# create tests
+use_test( "read_patents.R" )
