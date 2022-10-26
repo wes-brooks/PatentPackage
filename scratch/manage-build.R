@@ -2,6 +2,7 @@ library("usethis")
 
 # run the test-coverage action
 use_github_action( "test-coverage" )
+use_github_actions_badge( "test_coverage" )
 
 # run release check and add a badge
 use_github_action( "check-release" )
